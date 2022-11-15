@@ -126,44 +126,44 @@ In the “laws of thought” approach to AI, the emphasis was given to correct i
 - “How does an agent act/behave embedded in real environments with continuoussensory inputs”
 
  
-### 4.Foundations of AI:
-#### 4.1.Philosophy:
+### 5.Foundations of AI:
+#### 5.1.Philosophy:
   Logic, reasoning, mind as a physical system, foundations of learning, language and rationality.
   - Where does knowledge come from?
   - How does knowledge lead to action?
   - How does mental mind arise from physical brain?
   - Can formal rules be used to draw valid conclusions?
    
-#### 4.2.Mathematics:
+#### 5.2.Mathematics:
   Formal representation and proof algorithms, computation, undecidability, intractability, probability.
   - What are the formal rules to draw the valid conclusions?
   - What can be computed?
   - How do we reason with uncertain information?
   
-#### 4.3.Psychology:
+#### 5.3.Psychology:
   Adaptation, phenomena of perception and motor control.
    - How humans and animals think and act?
    
-#### 4.4.Economics:
+#### 5.4.Economics:
   Formal theory of rational decisions, game theory, operation research.
   - How should we make decisions so as to maximize payoff?
   - How should we do this when others may not go along?
   - How should we do this when the payoff may be far in future?
   
-#### 4.5.Linguistics:
+#### 5.5.Linguistics:
   Knowledge representation, grammar
   - How does language relate to thought?
   
-#### 4.6.Neuroscience:
+#### 5.6.Neuroscience:
   Physical substrate for mental activities
   - How do brains process information?
   
-#### 4.7.Control theory:
+#### 5.7.Control theory:
   Homeostatic systems, stability, optimal agent design
   - How can artifacts operate under their own control?
 
 
-### 5.Applications of AI:
+### 6.Applications of AI:
 
 - Autonomous planning and scheduling
 - Game playing
