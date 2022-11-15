@@ -22,7 +22,7 @@ AI is intelligence of machines and branch of computer science that aims to creat
 
 ### 3.AI Perspective
 
-#### Acting Humanly: The Turing Test Approach
+#### 3.1.Acting Humanly: The Turing Test Approach
 The Turing test, proposed by Alan Turing (1950) was designed to convince the people that whether a particular machine can think or not. He suggested a test based on indistinguishability from undeniably intelligent entities- human beings. The test involves an interrogator who interacts with one human and one machine. Within a given time the interrogator has to find out which of the two the human is, and which one the machine.
 
 The computer passes the test if a human interrogator after posing some written questions, cannot tell whether the written response come from human or not. To pass a Turing test, a computer must have following capabilities:
@@ -32,7 +32,7 @@ The computer passes the test if a human interrogator after posing some written q
   - Machine learning: Must be able to adapt in new circumstances.
 Turing test avoid the physical interaction with human interrogator. Physical simulation of human beings is not necessary for testing the intelligence.
 
-#### Thinking Humanly: Cognitive modeling approach
+#### 3.2.Thinking Humanly: Cognitive modeling approach
 If we are going to say that a given program thinks like a human, we must have some way of determining how humans think. We need to get inside the actual workings of human minds. There are two ways to do this:
   - through introspection: catch our thoughts while they go by
   - through psychological experiments.
@@ -40,7 +40,7 @@ If we are going to say that a given program thinks like a human, we must have so
 Once we have precise theory of mind, it is possible to express the theory as a computer program. The field of cognitive science brings together computer models from AI and experimental techniques from psychology to try to construct precise and testable theories of the
 workings of the human mind.
 
-#### Think rationally: The laws of thought approach
+#### 3.3.Think rationally: The laws of thought approach
 Aristotal was one of the first who attempt to codify the right thinking that is irrefutable reasoning process. He gave Syllogisms that always yielded correct conclusion when correct premises are given.
     For example:
         Ram is a man
@@ -48,7 +48,7 @@ Aristotal was one of the first who attempt to codify the right thinking that is 
       - Ram is mortal
 These law of thought were supposed to govern the operation of mind: This study initiated the field of logic. The logicist tradition in AI hopes to create intelligent systems using logic programming. However there are two obstacles to this approach. First, It is not easy to take informal knowledge and state in the formal terms required by logical notation, particularly when knowledge is not 100% certain. Second, solving problem principally is different from doing it in practice. Even problems with certain dozens of fact may exhaust the computational resources of any computer unless it has some guidance as which reasoning step to try first.
 
-#### Acting Rationally: The rational Agent approach:
+#### 3.4.Acting Rationally: The rational Agent approach:
 Agent is something that acts. Computer agent is expected to have following attributes:
 - Autonomous control
 - Perceiving their environment
@@ -61,7 +61,6 @@ The right thing: that which is expected to maximize goal achievement, given the 
 Rational Agent is one that acts so as to achieve the best outcome or, when there isuncertainty, the best expected outcome. 
 
 In the “laws of thought” approach to AI, the emphasis was given to correct inferences. Making correct inferences is sometimes part of being a rational agent, because one way to act rationally is to reason logically to the conclusion and act on that conclusion. On the other hand, there are also some ways of acting rationally that cannot be said to involve inference. For Example, recoiling from a hot stove is a reflex action that usually more successful than a slower action taken after careful deliberation.
-
 
 
 ### 4.Brief history of AI
@@ -107,7 +106,7 @@ In the “laws of thought” approach to AI, the emphasis was given to correct i
   - MYCIN to diagnose blood infections (Feigenbaum et al.)
     - Introduction of uncertainty in reasoning.
     
-– Increase in knowledge representation research.
+- Increase in knowledge representation research.
   - Logic, frames, semantic nets, ...
   
 #### AI becomes an industry (1980 - present):
@@ -133,13 +132,13 @@ In the “laws of thought” approach to AI, the emphasis was given to correct i
   - How does knowledge lead to action?
   - How does mental mind arise from physical brain?
   - Can formal rules be used to draw valid conclusions?
-  - 
+   
 #### Mathematics:
   Formal representation and proof algorithms, computation, undecidability, intractability, probability.
   - What are the formal rules to draw the valid conclusions?
   - What can be computed?
   - How do we reason with uncertain information?
-  - 
+  
 #### Psychology:
   Adaptation, phenomena of perception and motor control.
    - How humans and animals think and act?
@@ -149,18 +148,21 @@ In the “laws of thought” approach to AI, the emphasis was given to correct i
   - How should we make decisions so as to maximize payoff?
   - How should we do this when others may not go along?
   - How should we do this when the payoff may be far in future?
+  
 #### Linguistics:
   Knowledge representation, grammar
   - How does language relate to thought?
+  
 #### Neuroscience:
   Physical substrate for mental activities
   - How do brains process information?
+  
 #### Control theory:
   Homeostatic systems, stability, optimal agent design
   - How can artifacts operate under their own control?
 
 
-### Applications of AI: (Describe these application areas yourself)
+### Applications of AI:
 
 - Autonomous planning and scheduling
 - Game playing
