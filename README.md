@@ -1,4 +1,4 @@
-### Intelligence
+### 1.Intelligence
 
 Scientists have proposed two major “consensus” definitions of intelligence:
 
@@ -15,12 +15,12 @@ Individuals differ from one another in their ability to understand complex ideas
            – the ability to plan and execute complex tasks
 
 
-### What is Artificial Intelligence?
+### 2.What is Artificial Intelligence?
 #### "Giving machines ability to perform tasks normally associated with human intelligence."
 AI is intelligence of machines and branch of computer science that aims to create it. AI consists of design of intelligent agents, which is a program that perceives its environment and takes action that maximizes its chance of success. With Ai it comes issues like deduction, reasoning, problem solving, knowledge representation, planning, learning, natural language processing, perceptron, etc. “Artificial Intelligence is the part of computer science concerned with designing intelligence computer systems, that is, systems that exhibit the characteristics we associate with intelligence in human behavior.”
 
 
-### AI Perspective
+### 3.AI Perspective
 
 #### Acting Humanly: The Turing Test Approach
 The Turing test, proposed by Alan Turing (1950) was designed to convince the people that whether a particular machine can think or not. He suggested a test based on indistinguishability from undeniably intelligent entities- human beings. The test involves an interrogator who interacts with one human and one machine. Within a given time the interrogator has to find out which of the two the human is, and which one the machine.
@@ -64,46 +64,46 @@ In the “laws of thought” approach to AI, the emphasis was given to correct i
 
 
 
-### Brief history of AI
+### 4.Brief history of AI
 
-– 1943: Warren Mc Culloch and Walter Pitts: a model of artificial boolean neurons to perform computations.
-– First steps toward connectionist computation and learning (Hebbian learning).
-– Marvin Minsky and Dann Edmonds (1951) constructed the first neural network computer
-– 1950: Alan Turing’s “Computing Machinery and Intelligence”
-– First complete vision of AI.
+- 1943: Warren Mc Culloch and Walter Pitts: a model of artificial boolean neurons to perform computations.
+- First steps toward connectionist computation and learning (Hebbian learning).
+- Marvin Minsky and Dann Edmonds (1951) constructed the first neural network computer
+- 1950: Alan Turing’s “Computing Machinery and Intelligence”
+- First complete vision of AI.
 
 #### The birth of AI (1956):
 - Dartmouth Workshop bringing together top minds on automata theory, neural nets andthe study of intelligence.
-  – Allen Newell and Herbert Simon: The logic theorist (first nonnumeric thinkingprogram used for theorem proving)
-  – For the next 20 years the field was dominated by these participants.
+  - Allen Newell and Herbert Simon: The logic theorist (first nonnumeric thinkingprogram used for theorem proving)
+  - For the next 20 years the field was dominated by these participants.
   
 #### Great expectations (1952-1969):
-– Newell and Simon introduced the General Problem Solver.
-  – Imitation of human problem-solving
-– Arthur Samuel (1952-) investigated game playing (checkers ) with great success.
-– John McCarthy(1958-) :
-  – Inventor of Lisp (second-oldest high-level language)
-  – Logic oriented, Advice Taker (separation between knowledge and reasoning)
-– Marvin Minsky (1958 -)
+- Newell and Simon introduced the General Problem Solver.
+  - Imitation of human problem-solving
+- Arthur Samuel (1952-) investigated game playing (checkers ) with great success.
+- John McCarthy(1958-) :
+  - Inventor of Lisp (second-oldest high-level language)
+  - Logic oriented, Advice Taker (separation between knowledge and reasoning)
+- Marvin Minsky (1958 -)
 
-– Introduction of microworlds that appear to require intelligence to solve: e.g. blocks-world.
+- Introduction of microworlds that appear to require intelligence to solve: e.g. blocks-world.
 
-– Anti-logic orientation, society of the mind.
+- Anti-logic orientation, society of the mind.
 
 #### Collapse in AI research (1966 - 1973):
-– Progress was slower than expected.
-  – Unrealistic predictions.
-– Some systems lacked scalability.
-  – Combinatorial explosion in search.
-– Fundamental limitations on techniques and representations.
-  – Minsky and Papert (1969) Perceptrons.
+- Progress was slower than expected.
+  - Unrealistic predictions.
+- Some systems lacked scalability.
+  - Combinatorial explosion in search.
+- Fundamental limitations on techniques and representations.
+  - Minsky and Papert (1969) Perceptrons.
   
 #### AI revival through knowledge-based systems (1969-1970):
-– General-purpose vs. domain specific
+- General-purpose vs. domain specific
   - E.g. the DENDRAL project (Buchanan et al. 1969)
     First successful knowledge intensive system.
 
-– Expert systems
+- Expert systems
   - MYCIN to diagnose blood infections (Feigenbaum et al.)
     - Introduction of uncertainty in reasoning.
     
@@ -111,15 +111,15 @@ In the “laws of thought” approach to AI, the emphasis was given to correct i
   - Logic, frames, semantic nets, ...
   
 #### AI becomes an industry (1980 - present):
-  – R1 at DEC (McDermott, 1982)
-  – Fifth generation project in Japan (1981)
+  - R1 at DEC (McDermott, 1982)
+  - Fifth generation project in Japan (1981)
   
 #### Connectionist revival (1986 - present): (Return of Neural Network):
-– Parallel distributed processing (RumelHart and McClelland, 1986); backprop.
+- Parallel distributed processing (RumelHart and McClelland, 1986); backprop.
 #### AI becomes a science (1987 - present):
-– In speech recognition: hidden markov models
-– In neural networks
-– In uncertain reasoning and expert systems: Bayesian network formalism
+- In speech recognition: hidden markov models
+- In neural networks
+- In uncertain reasoning and expert systems: Bayesian network formalism
 
 #### The emergence of intelligent agents (1995 - present):
 - The whole agent problem:
